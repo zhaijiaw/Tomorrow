@@ -82,16 +82,6 @@
             "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod"
         },
         {
-            "key": "豪华资源",
-            "name": "豪华资源",
-            "type": 2,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://hhzyapi.com/api.php/provide/vod/"
-        },
-        {
             "key": "玩偶哥哥",
             "name": "🔴玩偶┃4K",
             "type": 3,
