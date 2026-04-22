@@ -200,6 +200,16 @@
             "ext": {
                 "site": "https://woog.nxog.eu.org,https://woog.nxog.fun,https://woog.nxog.eu.org,https://woog.430520.xyz"
             }
+        },
+        {
+            "key": "暴风资源",
+            "name": "暴风资源",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://bfzyapi.com/api.php/provide/vod/"
         }
     ]
 }
