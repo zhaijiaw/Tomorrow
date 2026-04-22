@@ -232,38 +232,6 @@
             "ext": {
                 "site": "https://woog.nxog.eu.org,https://woog.nxog.fun,https://woog.nxog.eu.org,https://woog.430520.xyz"
             }
-        },
-        {
-            "key": "夸搜",
-            "name": "🌀夸克丨搜索",
-            "type": 4,
-            "api": "https://so.yinpai.xyz/api.php?type=quark&wd="
-        },
-        {
-            "key": "uc搜",
-            "name": "🌀UC丨搜索",
-            "type": 4,
-            "api": "https://so.yinpai.xyz/api.php?type=uc&wd="
-        },
-        {
-            "key": "baidu搜",
-            "name": "🌀百度丨搜索",
-            "type": 4,
-            "api": "https://so.yinpai.xyz/api.php?type=baidu&wd="
-        },
-        {
-            "key": "tianyi搜",
-            "name": "🌀天翼丨搜索",
-            "type": 4,
-            "api": "https://so.yinpai.xyz/api.php?type=tianyi&wd="
-        },
-        {
-            "key": "push_agent",
-            "name": "⛽手机┃推送",
-            "type": 3,
-            "api": "csp_Push",
-            "searchable": 0,
-            "quickSearch": 0
         }
     ]
 }
