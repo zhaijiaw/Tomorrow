@@ -84,7 +84,7 @@
         {
             "key": "豪华资源",
             "name": "豪华资源",
-            "type": 3,
+            "type": 2,
             "api": "csp_AppYsV2",
             "searchable": 1,
             "quickSearch": 1,
