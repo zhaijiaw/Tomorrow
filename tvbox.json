@@ -199,6 +199,15 @@
             "ext": {
                 "site": "https://woog.nxog.eu.org,https://woog.nxog.fun,https://woog.nxog.eu.org,https://woog.430520.xyz"
             }
+        },
+        {
+            "key": "快车首页",
+            "name": "🚗快车┃首页",
+            "type": 3,
+            "api": "csp_All",
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": "https://caiji.kuaichezy.org/api.php/provide/vod/?ac=list"
         }
     ]
 }
