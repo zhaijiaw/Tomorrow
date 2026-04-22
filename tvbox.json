@@ -81,7 +81,7 @@
             "filterable": 1,
             "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod"
         },
-                {
+        {
             "key": "豪华资源",
             "name": "豪华资源",
             "type": 3,
@@ -90,38 +90,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://hhzyapi.com/api.php/provide/vod/"
-        },
-        {
-            "key": "Tgsoukk",
-            "name": "✈️TG搜┃夸克",
-            "type": 3,
-            "api": "csp_Tgsoukk",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "Tgsouuc",
-            "name": "✈️TG搜┃UC",
-            "type": 3,
-            "api": "csp_Tgsouuc",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "Tgsoubd",
-            "name": "✈️TG搜┃百度",
-            "type": 3,
-            "api": "csp_Tgsoubd",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "Tgsou",
-            "name": "✈️TG搜┃聚合",
-            "type": 3,
-            "api": "csp_Tgsou",
-            "searchable": 1,
-            "changeable": 0
         },
         {
             "key": "玩偶哥哥",
