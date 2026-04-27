@@ -12,10 +12,10 @@
     ],
     "sites": [
         {
-            "key": "dyttzy",
+            "key": "电影天堂",
             "name": "🎬电影天堂",
             "type": 1,
-            "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/at/xml/",
+            "api": "https://caiji.dyttzyapi.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0
