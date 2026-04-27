@@ -15,8 +15,7 @@
             "key": "dyttzy",
             "name": "🎬电影天堂",
             "type": 1,
-            "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/",
-            "searchUrl": "http://caiji.dyttzyapi.com/api.php/provide/vod/?ac=list&wd={searchKey}",
+            "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/at/xml/",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0
