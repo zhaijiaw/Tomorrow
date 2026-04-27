@@ -12,6 +12,15 @@
     ],
     "sites": [
         {
+            "key": "dyttzy",
+            "name": "🎬电影天堂",
+            "type": 1,
+            "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+        {
             "key": "豆瓣",
             "name": "😎免费┃接口",
             "type": 3,
