@@ -186,6 +186,70 @@
             "type": 3
         },
         {
+            "key": "Tgsoukk",
+            "name": "✈️TG搜┃夸克",
+            "type": 3,
+            "api": "csp_Tgsoukk",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "Tgsouuc",
+            "name": "✈️TG搜┃UC",
+            "type": 3,
+            "api": "csp_Tgsouuc",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "Tgsoubd",
+            "name": "✈️TG搜┃百度",
+            "type": 3,
+            "api": "csp_Tgsoubd",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "Tgsou",
+            "name": "✈️TG搜┃聚合",
+            "type": 3,
+            "api": "csp_Tgsou",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "夸搜",
+            "name": "🌀夸克丨搜索",
+            "type": 4,
+            "api": "https://so.yinpai.xyz/api.php?type=quark&wd="
+        },
+        {
+            "key": "uc搜",
+            "name": "🌀UC丨搜索",
+            "type": 4,
+            "api": "https://so.yinpai.xyz/api.php?type=uc&wd="
+        },
+        {
+            "key": "baidu搜",
+            "name": "🌀百度丨搜索",
+            "type": 4,
+            "api": "https://so.yinpai.xyz/api.php?type=baidu&wd="
+        },
+        {
+            "key": "tianyi搜",
+            "name": "🌀天翼丨搜索",
+            "type": 4,
+            "api": "https://so.yinpai.xyz/api.php?type=tianyi&wd="
+        },
+        {
+            "key": "push_agent",
+            "name": "⛽手机┃推送",
+            "type": 3,
+            "api": "csp_Push",
+            "searchable": 0,
+            "quickSearch": 0
+        },
+        {
             "key": "豪华影视",
             "name": "📽┃0️⃣1️⃣┃豪华┃影视",
             "type": 1,
