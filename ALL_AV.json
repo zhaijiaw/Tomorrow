@@ -1,5 +1,23 @@
 {
+      "lives": [
+        {
+            "name": "央视网",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u"
+        }
+    ],
+    "logo": "https://img.meituan.net/portalweb/2d4b59b4fe3ab8c5fbe1150a68f52448586638.gif",
   "sites": [
+            {
+            "api": "csp_Douban",
+            "changeable": 1,
+            "ext": "./lib/douban.json",
+            "indexs": 1,
+            "key": "豆瓣",
+            "name": "😎免费┃接口",
+            "searchable": 0,
+            "type": 3
+        },
     {
       "key": "AV-155资源",
       "name": "AV-155资源",
